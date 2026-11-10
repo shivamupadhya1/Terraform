@@ -8,7 +8,7 @@
 1. [Terraform Architecture & Core Concepts](#1-terraform-architecture--core-concepts)
 2. [Terraform CLI Commands](#2-terraform-cli-commands)
 3. [Providers](#3-providers)
-4. [Resources](#4-resources)
+4. [Resources](#4-resources)    
 5. [Variables (Input / Output / Local)](#5-variables-input--output--local)
 6. [Data Sources](#6-data-sources)
 7. [State Management](#7-state-management)
